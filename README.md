@@ -1,1 +1,1 @@
-# whisper-support
+# Whisper - Speech to Text
